@@ -1,0 +1,417 @@
+{
+  "matchScheduleMap": [
+    {
+      "scheduleAdWrapper": {
+        "date": "THU, AUG 03 2023",
+        "matchScheduleList": [
+          {
+            "seriesName": "India tour of West Indies, 2023",
+            "matchInfo": [
+              {
+                "matchId": 72851,
+                "seriesId": 6582,
+                "matchDesc": "1st T20I",
+                "matchFormat": "T20",
+                "startDate": "1691073000000",
+                "endDate": "1691107199000",
+                "team1": {
+                  "teamId": 10,
+                  "teamName": "West Indies",
+                  "teamSName": "WI",
+                  "isFullMember": true,
+                  "imageId": 172124
+                },
+                "team2": {
+                  "teamId": 2,
+                  "teamName": "India",
+                  "teamSName": "IND",
+                  "isFullMember": true,
+                  "imageId": 172115
+                },
+                "venueInfo": {
+                  "ground": "Brian Lara Stadium",
+                  "city": "Tarouba, Trinidad",
+                  "country": "West Indies",
+                  "timezone": "-04:00"
+                }
+              }
+            ],
+            "seriesId": 6582,
+            "seriesHomeCountry": 1,
+            "seriesCategory": "International"
+          }
+        ],
+        "longDate": "1691020800000"
+      }
+    },
+    {
+      "adDetail": {
+        "name": "native_news_index_random_1",
+        "layout": "native_large",
+        "position": 1
+      }
+    },
+    {
+      "scheduleAdWrapper": {
+        "date": "SUN, AUG 06 2023",
+        "matchScheduleList": [
+          {
+            "seriesName": "India tour of West Indies, 2023",
+            "matchInfo": [
+              {
+                "matchId": 72854,
+                "seriesId": 6582,
+                "matchDesc": "2nd T20I",
+                "matchFormat": "T20",
+                "startDate": "1691332200000",
+                "endDate": "1691366399000",
+                "team1": {
+                  "teamId": 10,
+                  "teamName": "West Indies",
+                  "teamSName": "WI",
+                  "isFullMember": true,
+                  "imageId": 172124
+                },
+                "team2": {
+                  "teamId": 2,
+                  "teamName": "India",
+                  "teamSName": "IND",
+                  "isFullMember": true,
+                  "imageId": 172115
+                },
+                "venueInfo": {
+                  "ground": "Providence Stadium",
+                  "city": "Guyana",
+                  "country": "West Indies",
+                  "timezone": "-04:00"
+                }
+              }
+            ],
+            "seriesId": 6582,
+            "seriesHomeCountry": 1,
+            "seriesCategory": "International"
+          }
+        ],
+        "longDate": "1691280000000"
+      }
+    },
+    {
+      "scheduleAdWrapper": {
+        "date": "TUE, AUG 08 2023",
+        "matchScheduleList": [
+          {
+            "seriesName": "India tour of West Indies, 2023",
+            "matchInfo": [
+              {
+                "matchId": 72858,
+                "seriesId": 6582,
+                "matchDesc": "3rd T20I",
+                "matchFormat": "T20",
+                "startDate": "1691505000000",
+                "endDate": "1691539199000",
+                "team1": {
+                  "teamId": 10,
+                  "teamName": "West Indies",
+                  "teamSName": "WI",
+                  "isFullMember": true,
+                  "imageId": 172124
+                },
+                "team2": {
+                  "teamId": 2,
+                  "teamName": "India",
+                  "teamSName": "IND",
+                  "isFullMember": true,
+                  "imageId": 172115
+                },
+                "venueInfo": {
+                  "ground": "Providence Stadium",
+                  "city": "Guyana",
+                  "country": "West Indies",
+                  "timezone": "-04:00"
+                }
+              }
+            ],
+            "seriesId": 6582,
+            "seriesHomeCountry": 1,
+            "seriesCategory": "International"
+          }
+        ],
+        "longDate": "1691452800000"
+      }
+    },
+    {
+      "scheduleAdWrapper": {
+        "date": "SAT, AUG 12 2023",
+        "matchScheduleList": [
+          {
+            "seriesName": "India tour of West Indies, 2023",
+            "matchInfo": [
+              {
+                "matchId": 72865,
+                "seriesId": 6582,
+                "matchDesc": "4th T20I",
+                "matchFormat": "T20",
+                "startDate": "1691850600000",
+                "endDate": "1691884799000",
+                "team1": {
+                  "teamId": 10,
+                  "teamName": "West Indies",
+                  "teamSName": "WI",
+                  "isFullMember": true,
+                  "imageId": 172124
+                },
+                "team2": {
+                  "teamId": 2,
+                  "teamName": "India",
+                  "teamSName": "IND",
+                  "isFullMember": true,
+                  "imageId": 172115
+                },
+                "venueInfo": {
+                  "ground": "Central Broward Regional Park Stadium Turf Ground",
+                  "city": "Lauderhill, Florida",
+                  "country": "United States",
+                  "timezone": "-04:00"
+                }
+              }
+            ],
+            "seriesId": 6582,
+            "seriesHomeCountry": 1,
+            "seriesCategory": "International"
+          }
+        ],
+        "longDate": "1691798400000"
+      }
+    },
+    {
+      "adDetail": {
+        "name": "native_news_index_random_2",
+        "layout": "native_large",
+        "position": 4
+      }
+    },
+    {
+      "scheduleAdWrapper": {
+        "date": "SUN, AUG 13 2023",
+        "matchScheduleList": [
+          {
+            "seriesName": "India tour of West Indies, 2023",
+            "matchInfo": [
+              {
+                "matchId": 72868,
+                "seriesId": 6582,
+                "matchDesc": "5th T20I",
+                "matchFormat": "T20",
+                "startDate": "1691937000000",
+                "endDate": "1691971199000",
+                "team1": {
+                  "teamId": 10,
+                  "teamName": "West Indies",
+                  "teamSName": "WI",
+                  "isFullMember": true,
+                  "imageId": 172124
+                },
+                "team2": {
+                  "teamId": 2,
+                  "teamName": "India",
+                  "teamSName": "IND",
+                  "isFullMember": true,
+                  "imageId": 172115
+                },
+                "venueInfo": {
+                  "ground": "Central Broward Regional Park Stadium Turf Ground",
+                  "city": "Lauderhill, Florida",
+                  "country": "United States",
+                  "timezone": "-04:00"
+                }
+              }
+            ],
+            "seriesId": 6582,
+            "seriesHomeCountry": 1,
+            "seriesCategory": "International"
+          }
+        ],
+        "longDate": "1691884800000"
+      }
+    }
+  ],
+  "startDt": [
+    "1691073000000",
+    "1691332200000",
+    "1691505000000",
+    "1691850600000",
+    "1691937000000",
+    "1692280800000",
+    "1692367200000",
+    "1692453600000",
+    "1692540000000",
+    "1692540000000",
+    "1692693000000",
+    "1692799200000",
+    "1692865800000",
+    "1693038600000",
+    "1693414800000",
+    "1693411200000",
+    "1693389600000",
+    "1693467000000",
+    "1693587600000",
+    "1693584000000",
+    "1693639800000",
+    "1693747800000",
+    "1693742400000",
+    "1693728000000",
+    "1693812600000",
+    "1693933200000",
+    "1693908000000",
+    "1693994400000",
+    "1694084400000",
+    "1694172600000",
+    "1694257200000",
+    "1694248200000",
+    "1694340000000",
+    "1694334600000",
+    "1694516400000",
+    "1694507400000",
+    "1694604600000",
+    "1694680200000",
+    "1694777400000",
+    "1694775600000",
+    "1694766600000",
+    "1694937600000",
+    "1694939400000",
+    "1695209400000",
+    "1695276000000",
+    "1695369600000",
+    "1695463200000",
+    "1695448800000",
+    "1695542400000",
+    "1695727800000",
+    "1695708000000",
+    "1695801600000",
+    "1696494600000",
+    "1696581000000",
+    "1696654800000",
+    "1696667400000",
+    "1696753800000",
+    "1696840200000",
+    "1696926600000",
+    "1697013000000",
+    "1697099400000",
+    "1697185800000",
+    "1697259600000",
+    "1697272200000",
+    "1697358600000",
+    "1697445000000",
+    "1697531400000",
+    "1697617800000",
+    "1697704200000",
+    "1697790600000",
+    "1697877000000",
+    "1697864400000",
+    "1697963400000",
+    "1698049800000",
+    "1698136200000",
+    "1698222600000",
+    "1698309000000",
+    "1698395400000",
+    "1698469200000",
+    "1698481800000",
+    "1698568200000",
+    "1698654600000",
+    "1698741000000",
+    "1698827400000",
+    "1698913800000",
+    "1699000200000",
+    "1699086600000",
+    "1699074000000",
+    "1699173000000",
+    "1699259400000",
+    "1699345800000",
+    "1699432200000",
+    "1699518600000",
+    "1699605000000",
+    "1699691400000",
+    "1699777800000",
+    "1699765200000",
+    "1700037000000",
+    "1700123400000",
+    "1700382600000",
+    "1700710200000",
+    "1700746200000",
+    "1701005400000",
+    "1701142200000",
+    "1701178200000",
+    "1701437400000",
+    "1701612000000",
+    "1701610200000",
+    "1701871200000",
+    "1701833400000",
+    "1702130400000",
+    "1702224000000",
+    "1702411200000",
+    "1702396800000",
+    "1702584000000",
+    "1702520400000",
+    "1702569600000",
+    "1702756800000",
+    "1702800000000",
+    "1702764000000",
+    "1703016000000",
+    "1702983600000",
+    "1703023200000",
+    "1703188800000",
+    "1703156400000",
+    "1703282400000",
+    "1703547000000",
+    "1703577600000",
+    "1703657400000",
+    "1703830200000",
+    "1703980800000",
+    "1704238200000",
+    "1704270600000",
+    "1704979800000",
+    "1705043400000",
+    "1705212600000",
+    "1705239000000",
+    "1705447800000",
+    "1705449600000",
+    "1705498200000",
+    "1705644600000",
+    "1705795200000",
+    "1706155200000",
+    "1706155200000",
+    "1706844600000",
+    "1707811200000",
+    "1707775200000",
+    "1707969600000",
+    "1708495800000",
+    "1708672200000",
+    "1708660800000",
+    "1708822800000",
+    "1709157600000",
+    "1709784000000",
+    "1709848800000",
+    "1716399000000",
+    "1716658200000",
+    "1716917400000",
+    "1717090200000",
+    "1720605600000",
+    "1721296800000",
+    "1721988000000",
+    "1724234400000",
+    "1724925600000",
+    "1725616800000",
+    "1726075800000",
+    "1726248600000",
+    "1726421400000",
+    "1726740000000",
+    "1726923600000",
+    "1727172000000",
+    "1727442000000",
+    "1727604000000"
+  ],
+  "appIndex": {
+    "seoTitle": "Cricket Schedule - International, domestic and T20 matches - Cricbuzz",
+    "webURL": "www.cricbuzz.com/cricket-schedule/series"
+  }
+}

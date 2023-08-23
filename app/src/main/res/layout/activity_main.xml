@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <FrameLayout
+        android:nextFocusRight="@id/blfNavBar"
+        android:id="@+id/container"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"/>
+
+    <androidx.leanback.widget.BrowseFrameLayout
+        android:id="@+id/blfNavBar"
+        android:background="#061040"
+        android:nextFocusLeft="@id/container"
+        android:layout_width="50dp"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_marginTop="32dp"
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <TextView
+                android:id="@+id/btn_home"
+                android:layout_marginLeft="16dp"
+                android:drawableLeft="@drawable/ic_home"
+                android:layout_width="match_parent"
+                android:layout_height="45dp"
+                android:background="@drawable/selector_menu"
+                android:textColor="#FFF"
+                android:gravity="center_vertical"
+                android:text="Home"
+                android:drawablePadding="16dp"
+                android:focusable="true"/>
+
+
+            <TextView
+                android:layout_marginLeft="16dp"
+                android:drawableLeft="@drawable/ic_schedule"
+                android:id="@+id/btn_schedule"
+                android:layout_width="match_parent"
+                android:layout_height="45dp"
+                android:background="@drawable/selector_menu"
+                android:textColor="#FFF"
+                android:gravity="center_vertical"
+                android:text="Schedule"
+                android:drawablePadding="16dp"
+                android:focusable="true"/>
+
+
+            <TextView
+                android:layout_marginLeft="16dp"
+                android:drawableLeft="@drawable/ic_sports_cricket"
+                android:id="@+id/btn_quiz"
+                android:layout_width="match_parent"
+                android:layout_height="45dp"
+                android:background="@drawable/selector_menu"
+                android:textColor="#FFF"
+                android:gravity="center_vertical"
+                android:text="Quiz"
+                android:drawablePadding="16dp"
+                android:focusable="true"/>
+
+
+
+            <TextView
+                android:layout_marginLeft="16dp"
+                android:drawableLeft="@drawable/ic_settings"
+                android:id="@+id/btn_settings"
+                android:layout_width="match_parent"
+                android:layout_height="45dp"
+                android:background="@drawable/selector_menu"
+                android:textColor="#FFF"
+                android:gravity="center_vertical"
+                android:text="Settings"
+                android:drawablePadding="16dp"
+                android:focusable="true"/>
+
+
+        </LinearLayout>
+
+
+
+    </androidx.leanback.widget.BrowseFrameLayout>
+
+
+
+
+</merge>

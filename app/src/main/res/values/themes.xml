@@ -1,0 +1,4 @@
+<resources>
+
+    <style name="Theme.WaltonICC2023" parent="@style/Theme.Leanback" />
+</resources>

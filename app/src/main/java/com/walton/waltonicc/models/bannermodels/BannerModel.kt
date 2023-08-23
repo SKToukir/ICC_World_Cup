@@ -1,0 +1,24 @@
+package com.walton.waltonicc.models.bannermodels
+
+data class BannerModel(
+    val created_at: String,
+    val end_date: String,
+    val id: Int,
+    val match_desc: String,
+    val match_format: String,
+    val series_name: String,
+    val start_date: String,
+    val team1_image_id: String,
+    val team1_is_full_member: String,
+    val team1_name: String,
+    val team1_sname: String,
+    val team2_image_id: String,
+    val team2_is_full_member: String,
+    val team2_name: String,
+    val team2_sname: String,
+    val updated_at: String,
+    val venue_city: String,
+    val venue_country: String,
+    val venue_ground: String,
+    val venue_timezone: String
+)
